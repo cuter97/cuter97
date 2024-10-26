@@ -1,5 +1,7 @@
+<h1>Hi 👋, I'm Agustin</h1>
 
-## Hi 👋, I'm Agustin
+</br>
+
 ### About Me 🔭
 <picture> 
   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
@@ -14,6 +16,8 @@
   <li>:boom: You can visit <a href="https://agustincastets.vercel.app">MY WEBSITE</a>.</li>
 </ul>
 
+</br>
+
 ### Tech Stack 💻
 <p>
   <a href="https://skillicons.dev">
@@ -21,9 +25,13 @@
   </a>
 </p>
 
+</br>
+
 ### Projects 🚀
 - **[TrainingPeek](https://trainingpeek.com)**: Training platform with payment integration and user/admin system.
 - **[Portfolio](https://agustincastets.vercel.app)**: Personal portfolio with animations, i18n, and responsive design.
+
+</br>
 
 ### Connect with Me 🌐
 - [LinkedIn](www.linkedin.com/in/agustin-castets)

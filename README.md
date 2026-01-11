@@ -21,7 +21,6 @@ I am a <code>computer engineering</code> student, currently halfway through my d
 </p>
 
 ### ***Projects 🚀***
-- **[TrainingPeek](https://trainingpeek.com)**: Training platform with payment integration and user/admin system.
 - **[Portfolio](https://agustincastets.vercel.app)**: Personal portfolio with animations, i18n, and responsive design.
 
 ### ***Github stats ✔***

@@ -14,7 +14,7 @@ I build products end-to-end — from UI/UX design to a solid, scalable backend. 
 ## Projects
 
 - [Portfolio](https://agustincastets.vercel.app) — Personal portfolio with animations, i18n, and responsive design.
-- [Cuter Dev](https://cuterdev.com) — My store.
+- [CuterDev](https://cuterdev.com) — My store.
 
 ## GitHub Stats
 
